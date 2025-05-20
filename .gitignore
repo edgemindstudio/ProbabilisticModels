@@ -1,0 +1,33 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folder
+.venv/
+env/
+.env/
+
+USTC-TFC2016_malware/
+dcgan/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PyCharm or VSCode project files
+.idea/
+.vscode/
+
+# Ignore model checkpoints (if you are saving models)
+checkpoints/
+
+# Ignore other generated files (like plots)
+*.png
+
