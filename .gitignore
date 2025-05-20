@@ -9,7 +9,7 @@ env/
 .env/
 
 USTC-TFC2016_malware/
-dcgan/
+
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
