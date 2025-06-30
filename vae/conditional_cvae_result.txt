@@ -1,0 +1,1542 @@
+[2025-06-17 00:24:37] Initializing Conditional CVAE...
+[2025-06-17 00:41:51] Initializing Conditional CVAE...
+[2025-06-17 00:44:19] Initializing Conditional CVAE...
+[2025-06-17 00:44:20] Starting CVAE training with early stopping...
+[2025-06-17 00:44:25] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 00:44:25] New best model saved.
+[2025-06-17 00:44:28] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 00:44:28] Patience Counter: 1/10
+[2025-06-17 00:44:31] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 00:44:31] Patience Counter: 2/10
+[2025-06-17 00:44:34] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 00:44:34] Patience Counter: 3/10
+[2025-06-17 00:44:37] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 00:44:37] Patience Counter: 4/10
+[2025-06-17 00:44:40] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 00:44:40] New best model saved.
+[2025-06-17 00:44:43] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 00:44:43] New best model saved.
+[2025-06-17 00:44:46] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 00:44:46] New best model saved.
+[2025-06-17 00:44:49] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 00:44:49] New best model saved.
+[2025-06-17 00:44:53] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 00:44:53] New best model saved.
+[2025-06-17 00:44:56] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 00:44:56] Patience Counter: 1/10
+[2025-06-17 00:44:59] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 00:44:59] New best model saved.
+[2025-06-17 00:45:02] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 00:45:02] New best model saved.
+[2025-06-17 00:45:05] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 00:45:05] New best model saved.
+[2025-06-17 00:45:08] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 00:45:08] New best model saved.
+[2025-06-17 00:45:12] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 00:45:12] New best model saved.
+[2025-06-17 00:45:15] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 00:45:15] New best model saved.
+[2025-06-17 00:45:18] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 00:45:18] New best model saved.
+[2025-06-17 00:45:21] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 00:45:21] New best model saved.
+[2025-06-17 00:45:24] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 00:45:24] New best model saved.
+[2025-06-17 00:45:27] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 00:45:27] New best model saved.
+[2025-06-17 00:45:31] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 00:45:31] New best model saved.
+[2025-06-17 00:45:34] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 00:45:34] New best model saved.
+[2025-06-17 00:45:37] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 00:45:37] New best model saved.
+[2025-06-17 00:45:40] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 00:45:40] New best model saved.
+[2025-06-17 00:45:44] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 00:45:44] New best model saved.
+[2025-06-17 00:45:47] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 00:45:47] New best model saved.
+[2025-06-17 00:45:50] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 00:45:50] New best model saved.
+[2025-06-17 00:45:53] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 00:45:53] New best model saved.
+[2025-06-17 00:45:56] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 00:45:56] New best model saved.
+[2025-06-17 00:45:59] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 00:45:59] Patience Counter: 1/10
+[2025-06-17 00:46:02] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 00:46:02] New best model saved.
+[2025-06-17 00:46:06] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 00:46:06] Patience Counter: 1/10
+[2025-06-17 00:46:09] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 00:46:09] New best model saved.
+[2025-06-17 00:46:12] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 00:46:12] New best model saved.
+[2025-06-17 00:46:15] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 00:46:15] Patience Counter: 1/10
+[2025-06-17 00:46:18] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 00:46:18] New best model saved.
+[2025-06-17 00:46:21] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 00:46:21] New best model saved.
+[2025-06-17 00:46:24] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 00:46:24] New best model saved.
+[2025-06-17 00:46:28] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 00:46:28] New best model saved.
+[2025-06-17 00:46:31] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 00:46:31] Patience Counter: 1/10
+[2025-06-17 00:46:34] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 00:46:34] New best model saved.
+[2025-06-17 00:46:37] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 00:46:37] Patience Counter: 1/10
+[2025-06-17 00:46:40] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 00:46:40] Patience Counter: 2/10
+[2025-06-17 00:46:43] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 00:46:43] New best model saved.
+[2025-06-17 00:46:47] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 00:46:47] New best model saved.
+[2025-06-17 00:46:50] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 00:46:50] New best model saved.
+[2025-06-17 00:46:53] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 00:46:53] New best model saved.
+[2025-06-17 00:46:56] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 00:46:56] New best model saved.
+[2025-06-17 00:46:59] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:46:59] New best model saved.
+[2025-06-17 00:47:03] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:03] Patience Counter: 1/10
+[2025-06-17 00:47:06] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:06] New best model saved.
+[2025-06-17 00:47:09] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:09] New best model saved.
+[2025-06-17 00:47:12] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:12] Patience Counter: 1/10
+[2025-06-17 00:47:15] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:15] Patience Counter: 2/10
+[2025-06-17 00:47:18] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:19] Patience Counter: 3/10
+[2025-06-17 00:47:22] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:22] Patience Counter: 4/10
+[2025-06-17 00:47:25] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:25] Patience Counter: 5/10
+[2025-06-17 00:47:28] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 00:47:28] Patience Counter: 6/10
+[2025-06-17 00:47:31] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 00:47:31] Patience Counter: 7/10
+[2025-06-17 00:47:34] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 00:47:34] Patience Counter: 8/10
+[2025-06-17 00:47:37] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 00:47:37] Patience Counter: 9/10
+[2025-06-17 00:47:41] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 00:47:41] Patience Counter: 10/10
+[2025-06-17 00:47:41] Early stopping triggered.
+[2025-06-17 00:47:41] Training complete.
+[2025-06-17 00:47:41] Generating synthetic samples for visualization...
+[2025-06-17 07:35:37] Initializing Conditional CVAE...
+[2025-06-17 07:35:38] Starting CVAE training with early stopping...
+[2025-06-17 07:35:42] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 07:35:42] New best model saved.
+[2025-06-17 07:35:45] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 07:35:45] Patience Counter: 1/10
+[2025-06-17 07:35:48] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 07:35:48] Patience Counter: 2/10
+[2025-06-17 07:35:51] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 07:35:51] Patience Counter: 3/10
+[2025-06-17 07:35:54] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 07:35:54] Patience Counter: 4/10
+[2025-06-17 07:35:57] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 07:35:57] New best model saved.
+[2025-06-17 07:36:00] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 07:36:00] New best model saved.
+[2025-06-17 07:36:03] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 07:36:03] New best model saved.
+[2025-06-17 07:36:07] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 07:36:07] New best model saved.
+[2025-06-17 07:36:10] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 07:36:10] New best model saved.
+[2025-06-17 07:36:13] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 07:36:13] Patience Counter: 1/10
+[2025-06-17 07:36:16] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 07:36:16] New best model saved.
+[2025-06-17 07:36:19] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 07:36:19] New best model saved.
+[2025-06-17 07:36:22] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 07:36:22] New best model saved.
+[2025-06-17 07:36:25] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 07:36:26] New best model saved.
+[2025-06-17 07:36:29] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 07:36:29] New best model saved.
+[2025-06-17 07:36:32] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 07:36:32] New best model saved.
+[2025-06-17 07:36:35] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 07:36:35] New best model saved.
+[2025-06-17 07:36:38] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 07:36:38] New best model saved.
+[2025-06-17 07:36:41] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 07:36:41] New best model saved.
+[2025-06-17 07:36:44] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 07:36:44] New best model saved.
+[2025-06-17 07:36:47] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 07:36:47] New best model saved.
+[2025-06-17 07:36:50] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 07:36:51] New best model saved.
+[2025-06-17 07:36:54] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 07:36:54] New best model saved.
+[2025-06-17 07:36:57] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 07:36:57] New best model saved.
+[2025-06-17 07:37:00] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 07:37:00] New best model saved.
+[2025-06-17 07:37:03] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 07:37:03] New best model saved.
+[2025-06-17 07:37:06] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 07:37:06] New best model saved.
+[2025-06-17 07:37:09] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 07:37:09] New best model saved.
+[2025-06-17 07:37:13] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 07:37:13] New best model saved.
+[2025-06-17 07:37:16] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 07:37:16] Patience Counter: 1/10
+[2025-06-17 07:37:19] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 07:37:19] New best model saved.
+[2025-06-17 07:37:22] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 07:37:22] Patience Counter: 1/10
+[2025-06-17 07:37:25] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 07:37:25] New best model saved.
+[2025-06-17 07:37:28] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 07:37:28] New best model saved.
+[2025-06-17 07:37:31] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 07:37:31] Patience Counter: 1/10
+[2025-06-17 07:37:34] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 07:37:34] New best model saved.
+[2025-06-17 07:37:38] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 07:37:38] New best model saved.
+[2025-06-17 07:37:41] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 07:37:41] New best model saved.
+[2025-06-17 07:37:44] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 07:37:44] New best model saved.
+[2025-06-17 07:37:47] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 07:37:47] Patience Counter: 1/10
+[2025-06-17 07:37:50] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 07:37:50] New best model saved.
+[2025-06-17 07:37:53] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 07:37:53] Patience Counter: 1/10
+[2025-06-17 07:37:56] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 07:37:56] Patience Counter: 2/10
+[2025-06-17 07:38:00] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 07:38:00] New best model saved.
+[2025-06-17 07:38:03] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 07:38:03] New best model saved.
+[2025-06-17 07:38:06] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:06] New best model saved.
+[2025-06-17 07:38:09] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:09] New best model saved.
+[2025-06-17 07:38:12] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:12] New best model saved.
+[2025-06-17 07:38:15] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:15] New best model saved.
+[2025-06-17 07:38:19] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:19] Patience Counter: 1/10
+[2025-06-17 07:38:22] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:22] New best model saved.
+[2025-06-17 07:38:25] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:25] New best model saved.
+[2025-06-17 07:38:28] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:28] Patience Counter: 1/10
+[2025-06-17 07:38:31] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:31] Patience Counter: 2/10
+[2025-06-17 07:38:34] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:34] Patience Counter: 3/10
+[2025-06-17 07:38:37] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:37] Patience Counter: 4/10
+[2025-06-17 07:38:41] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:41] Patience Counter: 5/10
+[2025-06-17 07:38:44] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:44] Patience Counter: 6/10
+[2025-06-17 07:38:47] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:47] Patience Counter: 7/10
+[2025-06-17 07:38:50] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 07:38:50] Patience Counter: 8/10
+[2025-06-17 07:38:53] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:53] Patience Counter: 9/10
+[2025-06-17 07:38:57] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 07:38:57] Patience Counter: 10/10
+[2025-06-17 07:38:57] Early stopping triggered.
+[2025-06-17 07:38:57] Training complete.
+[2025-06-17 07:38:57] Generating synthetic samples for visualization...
+[2025-06-17 08:04:52] Initializing Conditional CVAE...
+[2025-06-17 08:04:53] Starting CVAE training with early stopping...
+[2025-06-17 08:04:57] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 08:04:57] New best model saved.
+[2025-06-17 08:05:00] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 08:05:00] Patience Counter: 1/10
+[2025-06-17 08:05:03] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 08:05:03] Patience Counter: 2/10
+[2025-06-17 08:05:07] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 08:05:07] Patience Counter: 3/10
+[2025-06-17 08:05:10] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 08:05:10] Patience Counter: 4/10
+[2025-06-17 08:05:13] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 08:05:13] New best model saved.
+[2025-06-17 08:05:16] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 08:05:16] New best model saved.
+[2025-06-17 08:05:19] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 08:05:19] New best model saved.
+[2025-06-17 08:05:22] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 08:05:22] New best model saved.
+[2025-06-17 08:05:25] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 08:05:25] New best model saved.
+[2025-06-17 08:05:28] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 08:05:28] Patience Counter: 1/10
+[2025-06-17 08:05:31] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 08:05:31] New best model saved.
+[2025-06-17 08:05:34] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 08:05:34] New best model saved.
+[2025-06-17 08:05:37] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 08:05:37] New best model saved.
+[2025-06-17 08:05:40] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 08:05:40] New best model saved.
+[2025-06-17 08:05:43] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 08:05:43] New best model saved.
+[2025-06-17 08:05:46] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 08:05:46] New best model saved.
+[2025-06-17 08:05:49] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 08:05:49] New best model saved.
+[2025-06-17 08:05:52] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 08:05:52] New best model saved.
+[2025-06-17 08:05:55] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 08:05:55] New best model saved.
+[2025-06-17 08:05:58] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 08:05:58] New best model saved.
+[2025-06-17 08:06:01] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 08:06:01] New best model saved.
+[2025-06-17 08:06:05] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 08:06:05] New best model saved.
+[2025-06-17 08:06:08] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 08:06:08] New best model saved.
+[2025-06-17 08:06:11] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 08:06:11] New best model saved.
+[2025-06-17 08:06:14] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 08:06:14] New best model saved.
+[2025-06-17 08:06:17] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 08:06:17] New best model saved.
+[2025-06-17 08:06:21] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 08:06:21] New best model saved.
+[2025-06-17 08:06:24] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 08:06:24] New best model saved.
+[2025-06-17 08:06:27] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 08:06:27] New best model saved.
+[2025-06-17 08:06:30] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 08:06:30] Patience Counter: 1/10
+[2025-06-17 08:06:33] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 08:06:33] New best model saved.
+[2025-06-17 08:06:36] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 08:06:36] Patience Counter: 1/10
+[2025-06-17 08:06:40] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 08:06:40] New best model saved.
+[2025-06-17 08:06:43] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 08:06:43] New best model saved.
+[2025-06-17 08:06:46] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 08:06:46] Patience Counter: 1/10
+[2025-06-17 08:06:49] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 08:06:49] New best model saved.
+[2025-06-17 08:06:52] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 08:06:52] New best model saved.
+[2025-06-17 08:06:56] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 08:06:56] New best model saved.
+[2025-06-17 08:06:59] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 08:06:59] New best model saved.
+[2025-06-17 08:07:02] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 08:07:02] Patience Counter: 1/10
+[2025-06-17 08:07:05] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 08:07:05] New best model saved.
+[2025-06-17 08:07:08] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 08:07:08] Patience Counter: 1/10
+[2025-06-17 08:07:11] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 08:07:11] Patience Counter: 2/10
+[2025-06-17 08:07:14] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 08:07:14] New best model saved.
+[2025-06-17 08:07:17] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 08:07:18] New best model saved.
+[2025-06-17 08:07:21] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 08:07:21] New best model saved.
+[2025-06-17 08:07:24] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 08:07:24] New best model saved.
+[2025-06-17 08:07:27] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 08:07:27] New best model saved.
+[2025-06-17 08:07:30] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:30] New best model saved.
+[2025-06-17 08:07:33] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:33] Patience Counter: 1/10
+[2025-06-17 08:07:37] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:37] New best model saved.
+[2025-06-17 08:07:40] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:40] New best model saved.
+[2025-06-17 08:07:43] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:43] Patience Counter: 1/10
+[2025-06-17 08:07:46] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:46] Patience Counter: 2/10
+[2025-06-17 08:07:50] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:50] Patience Counter: 3/10
+[2025-06-17 08:07:53] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:53] Patience Counter: 4/10
+[2025-06-17 08:07:56] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:07:56] Patience Counter: 5/10
+[2025-06-17 08:07:59] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 08:07:59] Patience Counter: 6/10
+[2025-06-17 08:08:02] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 08:08:02] Patience Counter: 7/10
+[2025-06-17 08:08:06] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 08:08:06] Patience Counter: 8/10
+[2025-06-17 08:08:09] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 08:08:09] Patience Counter: 9/10
+[2025-06-17 08:08:12] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 08:08:12] Patience Counter: 10/10
+[2025-06-17 08:08:12] Early stopping triggered.
+[2025-06-17 08:08:12] Training complete.
+[2025-06-17 08:08:12] Generating synthetic samples for visualization...
+[2025-06-17 10:11:38] Saving visual preview of synthetic samples...
+[2025-06-17 10:11:38] Generating 1000 synthetic samples per class...
+[2025-06-17 10:11:38] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 10:11:38] Running baseline: Real-only CNN classifier...
+[2025-06-17 10:11:38] Training a real-only CNN classifier...
+[2025-06-17 10:12:26] Classifier trained and weights saved.
+[2025-06-17 10:12:27] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 10:12:27] Loading synthetic samples from disk...
+[2025-06-17 10:12:27] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 10:12:27] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 10:12:27] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 10:13:23] Classifier Test Accuracy: 0.1111
+[2025-06-17 10:18:42] Initializing Conditional CVAE...
+[2025-06-17 10:18:43] Starting CVAE training with early stopping...
+[2025-06-17 10:18:47] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 10:18:47] New best model saved.
+[2025-06-17 10:18:50] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 10:18:50] Patience Counter: 1/10
+[2025-06-17 10:18:53] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 10:18:53] Patience Counter: 2/10
+[2025-06-17 10:18:56] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 10:18:56] Patience Counter: 3/10
+[2025-06-17 10:19:00] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 10:19:00] Patience Counter: 4/10
+[2025-06-17 10:19:03] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 10:19:03] New best model saved.
+[2025-06-17 10:19:06] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 10:19:06] New best model saved.
+[2025-06-17 10:19:09] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 10:19:09] New best model saved.
+[2025-06-17 10:19:12] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 10:19:12] New best model saved.
+[2025-06-17 10:19:15] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 10:19:15] New best model saved.
+[2025-06-17 10:19:19] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 10:19:19] Patience Counter: 1/10
+[2025-06-17 10:19:22] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 10:19:22] New best model saved.
+[2025-06-17 10:19:25] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 10:19:25] New best model saved.
+[2025-06-17 10:19:28] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 10:19:28] New best model saved.
+[2025-06-17 10:19:31] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 10:19:31] New best model saved.
+[2025-06-17 10:19:34] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 10:19:34] New best model saved.
+[2025-06-17 10:19:37] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 10:19:37] New best model saved.
+[2025-06-17 10:19:41] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 10:19:41] New best model saved.
+[2025-06-17 10:19:44] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 10:19:44] New best model saved.
+[2025-06-17 10:19:47] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 10:19:47] New best model saved.
+[2025-06-17 10:19:50] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 10:19:50] New best model saved.
+[2025-06-17 10:19:53] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 10:19:53] New best model saved.
+[2025-06-17 10:19:56] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 10:19:56] New best model saved.
+[2025-06-17 10:20:00] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 10:20:00] New best model saved.
+[2025-06-17 10:20:03] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 10:20:03] New best model saved.
+[2025-06-17 10:20:06] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 10:20:06] New best model saved.
+[2025-06-17 10:20:09] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 10:20:09] New best model saved.
+[2025-06-17 10:20:12] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 10:20:12] New best model saved.
+[2025-06-17 10:20:15] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 10:20:15] New best model saved.
+[2025-06-17 10:20:19] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 10:20:19] New best model saved.
+[2025-06-17 10:20:22] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 10:20:22] Patience Counter: 1/10
+[2025-06-17 10:20:25] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 10:20:25] New best model saved.
+[2025-06-17 10:20:28] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 10:20:28] Patience Counter: 1/10
+[2025-06-17 10:20:31] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 10:20:31] New best model saved.
+[2025-06-17 10:20:34] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 10:20:34] New best model saved.
+[2025-06-17 10:20:37] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 10:20:37] Patience Counter: 1/10
+[2025-06-17 10:20:40] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 10:20:40] New best model saved.
+[2025-06-17 10:20:44] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 10:20:44] New best model saved.
+[2025-06-17 10:20:47] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 10:20:47] New best model saved.
+[2025-06-17 10:20:50] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 10:20:50] New best model saved.
+[2025-06-17 10:20:54] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 10:20:54] Patience Counter: 1/10
+[2025-06-17 10:20:57] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 10:20:57] New best model saved.
+[2025-06-17 10:21:00] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 10:21:00] Patience Counter: 1/10
+[2025-06-17 10:21:03] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:21:03] Patience Counter: 2/10
+[2025-06-17 10:21:06] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:21:06] New best model saved.
+[2025-06-17 10:21:09] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:21:09] New best model saved.
+[2025-06-17 10:21:13] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:21:13] New best model saved.
+[2025-06-17 10:21:16] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:21:16] New best model saved.
+[2025-06-17 10:21:19] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:21:19] New best model saved.
+[2025-06-17 10:21:22] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:22] New best model saved.
+[2025-06-17 10:21:25] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:25] Patience Counter: 1/10
+[2025-06-17 10:21:28] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:28] New best model saved.
+[2025-06-17 10:21:32] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:32] New best model saved.
+[2025-06-17 10:21:35] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:35] Patience Counter: 1/10
+[2025-06-17 10:21:38] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:38] Patience Counter: 2/10
+[2025-06-17 10:21:41] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:41] Patience Counter: 3/10
+[2025-06-17 10:21:45] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:45] Patience Counter: 4/10
+[2025-06-17 10:21:48] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:48] Patience Counter: 5/10
+[2025-06-17 10:21:51] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:21:51] Patience Counter: 6/10
+[2025-06-17 10:21:54] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 10:21:54] Patience Counter: 7/10
+[2025-06-17 10:21:58] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:21:58] Patience Counter: 8/10
+[2025-06-17 10:22:01] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:22:01] Patience Counter: 9/10
+[2025-06-17 10:22:04] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 10:22:04] Patience Counter: 10/10
+[2025-06-17 10:22:04] Early stopping triggered.
+[2025-06-17 10:22:04] Training complete.
+[2025-06-17 10:22:04] Generating synthetic samples for visualization...
+[2025-06-17 10:22:04] Saving visual preview of synthetic samples...
+[2025-06-17 10:22:05] Generating 1000 synthetic samples per class...
+[2025-06-17 10:22:05] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 10:22:05] Running baseline: Real-only CNN classifier...
+[2025-06-17 10:22:05] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 10:22:06] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 10:22:06] Loading synthetic samples from disk...
+[2025-06-17 10:22:06] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 10:22:06] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 10:22:06] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 10:23:02] Classifier Test Accuracy: 0.1111
+[2025-06-17 10:23:02] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 10:23:10] FID Score: 0.0002
+[2025-06-17 10:48:27] Initializing Conditional CVAE...
+[2025-06-17 10:48:28] Starting CVAE training with early stopping...
+[2025-06-17 10:48:32] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 10:48:32] New best model saved.
+[2025-06-17 10:48:35] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 10:48:35] Patience Counter: 1/10
+[2025-06-17 10:48:38] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 10:48:38] Patience Counter: 2/10
+[2025-06-17 10:48:41] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 10:48:41] Patience Counter: 3/10
+[2025-06-17 10:48:44] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 10:48:44] Patience Counter: 4/10
+[2025-06-17 10:48:47] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 10:48:47] New best model saved.
+[2025-06-17 10:48:50] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 10:48:50] New best model saved.
+[2025-06-17 10:48:53] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 10:48:53] New best model saved.
+[2025-06-17 10:48:56] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 10:48:56] New best model saved.
+[2025-06-17 10:48:59] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 10:48:59] New best model saved.
+[2025-06-17 10:49:02] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 10:49:02] Patience Counter: 1/10
+[2025-06-17 10:49:05] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 10:49:05] New best model saved.
+[2025-06-17 10:49:09] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 10:49:09] New best model saved.
+[2025-06-17 10:49:12] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 10:49:12] New best model saved.
+[2025-06-17 10:49:15] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 10:49:15] New best model saved.
+[2025-06-17 10:49:18] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 10:49:18] New best model saved.
+[2025-06-17 10:49:21] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 10:49:21] New best model saved.
+[2025-06-17 10:49:24] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 10:49:24] New best model saved.
+[2025-06-17 10:49:27] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 10:49:27] New best model saved.
+[2025-06-17 10:49:30] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 10:49:30] New best model saved.
+[2025-06-17 10:49:33] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 10:49:33] New best model saved.
+[2025-06-17 10:49:36] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 10:49:36] New best model saved.
+[2025-06-17 10:49:40] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 10:49:40] New best model saved.
+[2025-06-17 10:49:43] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 10:49:43] New best model saved.
+[2025-06-17 10:49:46] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 10:49:46] New best model saved.
+[2025-06-17 10:49:49] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 10:49:49] New best model saved.
+[2025-06-17 10:49:52] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 10:49:52] New best model saved.
+[2025-06-17 10:49:55] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 10:49:55] New best model saved.
+[2025-06-17 10:49:58] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 10:49:58] New best model saved.
+[2025-06-17 10:50:01] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 10:50:01] New best model saved.
+[2025-06-17 10:50:04] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 10:50:04] Patience Counter: 1/10
+[2025-06-17 10:50:08] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 10:50:08] New best model saved.
+[2025-06-17 10:50:11] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 10:50:11] Patience Counter: 1/10
+[2025-06-17 10:50:14] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 10:50:14] New best model saved.
+[2025-06-17 10:50:17] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 10:50:17] New best model saved.
+[2025-06-17 10:50:20] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 10:50:20] Patience Counter: 1/10
+[2025-06-17 10:50:23] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 10:50:23] New best model saved.
+[2025-06-17 10:50:26] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 10:50:26] New best model saved.
+[2025-06-17 10:50:30] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 10:50:30] New best model saved.
+[2025-06-17 10:50:33] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 10:50:33] New best model saved.
+[2025-06-17 10:50:36] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 10:50:36] Patience Counter: 1/10
+[2025-06-17 10:50:39] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 10:50:39] New best model saved.
+[2025-06-17 10:50:42] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 10:50:42] Patience Counter: 1/10
+[2025-06-17 10:50:45] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:50:45] Patience Counter: 2/10
+[2025-06-17 10:50:48] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:50:48] New best model saved.
+[2025-06-17 10:50:51] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 10:50:51] New best model saved.
+[2025-06-17 10:50:54] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:50:54] New best model saved.
+[2025-06-17 10:50:58] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:50:58] New best model saved.
+[2025-06-17 10:51:01] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:51:01] New best model saved.
+[2025-06-17 10:51:04] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:04] New best model saved.
+[2025-06-17 10:51:07] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:07] Patience Counter: 1/10
+[2025-06-17 10:51:10] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:10] New best model saved.
+[2025-06-17 10:51:13] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:13] New best model saved.
+[2025-06-17 10:51:17] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:17] Patience Counter: 1/10
+[2025-06-17 10:51:20] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:20] Patience Counter: 2/10
+[2025-06-17 10:51:23] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:23] Patience Counter: 3/10
+[2025-06-17 10:51:26] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:26] Patience Counter: 4/10
+[2025-06-17 10:51:29] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:29] Patience Counter: 5/10
+[2025-06-17 10:51:32] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:51:33] Patience Counter: 6/10
+[2025-06-17 10:51:36] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 10:51:36] Patience Counter: 7/10
+[2025-06-17 10:51:39] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 10:51:39] Patience Counter: 8/10
+[2025-06-17 10:51:42] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 10:51:42] Patience Counter: 9/10
+[2025-06-17 10:51:45] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 10:51:45] Patience Counter: 10/10
+[2025-06-17 10:51:45] Early stopping triggered.
+[2025-06-17 10:51:45] Training complete.
+[2025-06-17 10:51:45] Generating synthetic samples for visualization...
+[2025-06-17 10:51:45] Saving visual preview of synthetic samples...
+[2025-06-17 10:51:45] Generating 1000 synthetic samples per class...
+[2025-06-17 10:51:45] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 10:51:45] Running baseline: Real-only CNN classifier...
+[2025-06-17 10:51:46] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 11:04:27] Initializing Conditional CVAE...
+[2025-06-17 11:04:27] Starting CVAE training with early stopping...
+[2025-06-17 11:04:31] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 11:04:31] New best model saved.
+[2025-06-17 11:04:34] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 11:04:34] Patience Counter: 1/10
+[2025-06-17 11:04:37] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 11:04:37] Patience Counter: 2/10
+[2025-06-17 11:04:41] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 11:04:41] Patience Counter: 3/10
+[2025-06-17 11:04:44] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 11:04:44] Patience Counter: 4/10
+[2025-06-17 11:04:47] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 11:04:47] New best model saved.
+[2025-06-17 11:04:50] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 11:04:50] New best model saved.
+[2025-06-17 11:04:53] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 11:04:53] New best model saved.
+[2025-06-17 11:04:56] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 11:04:56] New best model saved.
+[2025-06-17 11:05:00] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 11:05:00] New best model saved.
+[2025-06-17 11:05:03] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 11:05:03] Patience Counter: 1/10
+[2025-06-17 11:05:06] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 11:05:06] New best model saved.
+[2025-06-17 11:05:09] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 11:05:09] New best model saved.
+[2025-06-17 11:05:12] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 11:05:12] New best model saved.
+[2025-06-17 11:05:15] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 11:05:15] New best model saved.
+[2025-06-17 11:05:18] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 11:05:18] New best model saved.
+[2025-06-17 11:05:21] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 11:05:21] New best model saved.
+[2025-06-17 11:05:24] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 11:05:25] New best model saved.
+[2025-06-17 11:05:28] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 11:05:28] New best model saved.
+[2025-06-17 11:05:31] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 11:05:31] New best model saved.
+[2025-06-17 11:05:34] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 11:05:34] New best model saved.
+[2025-06-17 11:05:37] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 11:05:37] New best model saved.
+[2025-06-17 11:05:40] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 11:05:40] New best model saved.
+[2025-06-17 11:05:43] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 11:05:43] New best model saved.
+[2025-06-17 11:05:46] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 11:05:46] New best model saved.
+[2025-06-17 11:05:49] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 11:05:49] New best model saved.
+[2025-06-17 11:05:53] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 11:05:53] New best model saved.
+[2025-06-17 11:05:56] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 11:05:56] New best model saved.
+[2025-06-17 11:05:59] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 11:05:59] New best model saved.
+[2025-06-17 11:06:02] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 11:06:02] New best model saved.
+[2025-06-17 11:06:05] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 11:06:05] Patience Counter: 1/10
+[2025-06-17 11:06:08] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 11:06:08] New best model saved.
+[2025-06-17 11:06:11] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 11:06:11] Patience Counter: 1/10
+[2025-06-17 11:06:15] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 11:06:15] New best model saved.
+[2025-06-17 11:06:18] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 11:06:18] New best model saved.
+[2025-06-17 11:06:21] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 11:06:21] Patience Counter: 1/10
+[2025-06-17 11:06:24] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 11:06:24] New best model saved.
+[2025-06-17 11:06:27] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 11:06:27] New best model saved.
+[2025-06-17 11:06:30] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 11:06:30] New best model saved.
+[2025-06-17 11:06:33] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 11:06:33] New best model saved.
+[2025-06-17 11:06:36] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 11:06:36] Patience Counter: 1/10
+[2025-06-17 11:06:40] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 11:06:40] New best model saved.
+[2025-06-17 11:06:43] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 11:06:43] Patience Counter: 1/10
+[2025-06-17 11:06:46] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 11:06:46] Patience Counter: 2/10
+[2025-06-17 11:06:49] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 11:06:49] New best model saved.
+[2025-06-17 11:06:52] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 11:06:52] New best model saved.
+[2025-06-17 11:06:55] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 11:06:55] New best model saved.
+[2025-06-17 11:06:58] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 11:06:59] New best model saved.
+[2025-06-17 11:07:02] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 11:07:02] New best model saved.
+[2025-06-17 11:07:05] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:05] New best model saved.
+[2025-06-17 11:07:08] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:08] Patience Counter: 1/10
+[2025-06-17 11:07:11] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:11] New best model saved.
+[2025-06-17 11:07:14] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:14] New best model saved.
+[2025-06-17 11:07:17] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:17] Patience Counter: 1/10
+[2025-06-17 11:07:21] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:21] Patience Counter: 2/10
+[2025-06-17 11:07:24] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:24] Patience Counter: 3/10
+[2025-06-17 11:07:27] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:27] Patience Counter: 4/10
+[2025-06-17 11:07:30] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:30] Patience Counter: 5/10
+[2025-06-17 11:07:33] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 11:07:33] Patience Counter: 6/10
+[2025-06-17 11:07:36] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 11:07:36] Patience Counter: 7/10
+[2025-06-17 11:07:39] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 11:07:39] Patience Counter: 8/10
+[2025-06-17 11:07:43] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 11:07:43] Patience Counter: 9/10
+[2025-06-17 11:07:46] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 11:07:46] Patience Counter: 10/10
+[2025-06-17 11:07:46] Early stopping triggered.
+[2025-06-17 11:07:46] Training complete.
+[2025-06-17 11:07:46] Generating synthetic samples for visualization...
+[2025-06-17 11:07:46] Saving visual preview of synthetic samples...
+[2025-06-17 11:07:46] Generating 1000 synthetic samples per class...
+[2025-06-17 11:07:46] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 11:07:46] Running baseline: Real-only CNN classifier...
+[2025-06-17 11:07:47] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 11:07:47] Layer mismatch error detected. Rebuilding classifier...
+[2025-06-17 11:07:47] Training a real-only CNN classifier...
+[2025-06-17 11:08:55] Classifier trained and weights saved.
+[2025-06-17 11:08:55] Real-Only Classifier Accuracy on Test Set: 0.1208
+[2025-06-17 11:08:55] Loading synthetic samples from disk...
+[2025-06-17 11:08:55] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 11:08:56] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 11:08:56] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 11:10:18] Classifier Test Accuracy: 0.1111
+[2025-06-17 11:10:18] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 11:10:24] FID Score: 0.0002
+[2025-06-17 11:10:25] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 14:18:42] Initializing Conditional CVAE...
+[2025-06-17 14:18:42] Starting CVAE training with early stopping...
+[2025-06-17 14:18:47] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 14:18:47] New best model saved.
+[2025-06-17 14:18:50] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 14:18:50] Patience Counter: 1/10
+[2025-06-17 14:18:53] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 14:18:53] Patience Counter: 2/10
+[2025-06-17 14:18:56] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 14:18:56] Patience Counter: 3/10
+[2025-06-17 14:18:59] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 14:18:59] Patience Counter: 4/10
+[2025-06-17 14:19:02] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 14:19:02] New best model saved.
+[2025-06-17 14:19:05] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 14:19:05] New best model saved.
+[2025-06-17 14:19:08] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 14:19:08] New best model saved.
+[2025-06-17 14:19:11] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 14:19:11] New best model saved.
+[2025-06-17 14:19:14] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 14:19:14] New best model saved.
+[2025-06-17 14:19:18] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 14:19:18] Patience Counter: 1/10
+[2025-06-17 14:19:21] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 14:19:21] New best model saved.
+[2025-06-17 14:19:24] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 14:19:24] New best model saved.
+[2025-06-17 14:19:27] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 14:19:27] New best model saved.
+[2025-06-17 14:19:30] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 14:19:30] New best model saved.
+[2025-06-17 14:19:33] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 14:19:33] New best model saved.
+[2025-06-17 14:19:36] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 14:19:36] New best model saved.
+[2025-06-17 14:19:39] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 14:19:39] New best model saved.
+[2025-06-17 14:19:42] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 14:19:42] New best model saved.
+[2025-06-17 14:19:45] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 14:19:45] New best model saved.
+[2025-06-17 14:19:48] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 14:19:48] New best model saved.
+[2025-06-17 14:19:51] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 14:19:51] New best model saved.
+[2025-06-17 14:19:54] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 14:19:54] New best model saved.
+[2025-06-17 14:19:58] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 14:19:58] New best model saved.
+[2025-06-17 14:20:01] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 14:20:01] New best model saved.
+[2025-06-17 14:20:04] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 14:20:04] New best model saved.
+[2025-06-17 14:20:07] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 14:20:07] New best model saved.
+[2025-06-17 14:20:10] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 14:20:10] New best model saved.
+[2025-06-17 14:20:13] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 14:20:13] New best model saved.
+[2025-06-17 14:20:16] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 14:20:16] New best model saved.
+[2025-06-17 14:20:19] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 14:20:19] Patience Counter: 1/10
+[2025-06-17 14:20:22] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 14:20:22] New best model saved.
+[2025-06-17 14:20:25] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 14:20:25] Patience Counter: 1/10
+[2025-06-17 14:20:28] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 14:20:28] New best model saved.
+[2025-06-17 14:20:32] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 14:20:32] New best model saved.
+[2025-06-17 14:20:35] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 14:20:35] Patience Counter: 1/10
+[2025-06-17 14:20:38] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 14:20:38] New best model saved.
+[2025-06-17 14:20:41] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 14:20:41] New best model saved.
+[2025-06-17 14:20:44] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 14:20:44] New best model saved.
+[2025-06-17 14:20:48] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 14:20:48] New best model saved.
+[2025-06-17 14:20:51] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 14:20:51] Patience Counter: 1/10
+[2025-06-17 14:20:54] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 14:20:54] New best model saved.
+[2025-06-17 14:20:57] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 14:20:57] Patience Counter: 1/10
+[2025-06-17 14:21:00] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:21:00] Patience Counter: 2/10
+[2025-06-17 14:21:03] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:21:03] New best model saved.
+[2025-06-17 14:21:06] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:21:06] New best model saved.
+[2025-06-17 14:21:09] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:10] New best model saved.
+[2025-06-17 14:21:13] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:13] New best model saved.
+[2025-06-17 14:21:16] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:16] New best model saved.
+[2025-06-17 14:21:19] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:19] New best model saved.
+[2025-06-17 14:21:22] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:22] Patience Counter: 1/10
+[2025-06-17 14:21:26] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:26] New best model saved.
+[2025-06-17 14:21:29] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:29] New best model saved.
+[2025-06-17 14:21:32] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:32] Patience Counter: 1/10
+[2025-06-17 14:21:35] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:35] Patience Counter: 2/10
+[2025-06-17 14:21:39] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:39] Patience Counter: 3/10
+[2025-06-17 14:21:42] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:42] Patience Counter: 4/10
+[2025-06-17 14:21:45] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:45] Patience Counter: 5/10
+[2025-06-17 14:21:48] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:48] Patience Counter: 6/10
+[2025-06-17 14:21:51] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:51] Patience Counter: 7/10
+[2025-06-17 14:21:55] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:21:55] Patience Counter: 8/10
+[2025-06-17 14:21:58] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:21:58] Patience Counter: 9/10
+[2025-06-17 14:22:01] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 14:22:01] Patience Counter: 10/10
+[2025-06-17 14:22:01] Early stopping triggered.
+[2025-06-17 14:22:01] Training complete.
+[2025-06-17 14:29:56] Initializing Conditional CVAE...
+[2025-06-17 14:29:56] Starting CVAE training with early stopping...
+[2025-06-17 14:30:00] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 14:30:00] New best model saved.
+[2025-06-17 14:30:03] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 14:30:03] Patience Counter: 1/10
+[2025-06-17 14:30:06] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 14:30:06] Patience Counter: 2/10
+[2025-06-17 14:30:10] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 14:30:10] Patience Counter: 3/10
+[2025-06-17 14:30:12] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 14:30:13] Patience Counter: 4/10
+[2025-06-17 14:30:15] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 14:30:15] New best model saved.
+[2025-06-17 14:30:18] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 14:30:18] New best model saved.
+[2025-06-17 14:30:21] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 14:30:21] New best model saved.
+[2025-06-17 14:30:24] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 14:30:25] New best model saved.
+[2025-06-17 14:30:27] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 14:30:27] New best model saved.
+[2025-06-17 14:30:30] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 14:30:30] Patience Counter: 1/10
+[2025-06-17 14:30:33] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 14:30:33] New best model saved.
+[2025-06-17 14:30:36] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 14:30:36] New best model saved.
+[2025-06-17 14:30:39] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 14:30:39] New best model saved.
+[2025-06-17 14:30:42] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 14:30:42] New best model saved.
+[2025-06-17 14:30:46] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 14:30:46] New best model saved.
+[2025-06-17 14:30:49] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 14:30:49] New best model saved.
+[2025-06-17 14:30:52] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 14:30:52] New best model saved.
+[2025-06-17 14:30:55] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 14:30:55] New best model saved.
+[2025-06-17 14:30:58] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 14:30:58] New best model saved.
+[2025-06-17 14:31:01] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 14:31:01] New best model saved.
+[2025-06-17 14:31:04] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 14:31:04] New best model saved.
+[2025-06-17 14:31:07] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 14:31:07] New best model saved.
+[2025-06-17 14:31:10] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 14:31:10] New best model saved.
+[2025-06-17 14:31:13] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 14:31:13] New best model saved.
+[2025-06-17 14:31:16] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 14:31:16] New best model saved.
+[2025-06-17 14:31:19] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 14:31:19] New best model saved.
+[2025-06-17 14:31:22] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 14:31:22] New best model saved.
+[2025-06-17 14:31:25] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 14:31:25] New best model saved.
+[2025-06-17 14:31:28] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 14:31:28] New best model saved.
+[2025-06-17 14:31:31] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 14:31:31] Patience Counter: 1/10
+[2025-06-17 14:31:34] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 14:31:34] New best model saved.
+[2025-06-17 14:31:37] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 14:31:37] Patience Counter: 1/10
+[2025-06-17 14:31:40] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 14:31:40] New best model saved.
+[2025-06-17 14:31:43] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 14:31:43] New best model saved.
+[2025-06-17 14:31:46] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 14:31:46] Patience Counter: 1/10
+[2025-06-17 14:31:49] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 14:31:49] New best model saved.
+[2025-06-17 14:31:52] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 14:31:52] New best model saved.
+[2025-06-17 14:31:55] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 14:31:55] New best model saved.
+[2025-06-17 14:31:58] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 14:31:58] New best model saved.
+[2025-06-17 14:32:01] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 14:32:01] Patience Counter: 1/10
+[2025-06-17 14:32:04] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 14:32:04] New best model saved.
+[2025-06-17 14:32:07] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 14:32:07] Patience Counter: 1/10
+[2025-06-17 14:32:10] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:32:10] Patience Counter: 2/10
+[2025-06-17 14:32:13] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:32:13] New best model saved.
+[2025-06-17 14:32:16] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 14:32:16] New best model saved.
+[2025-06-17 14:32:19] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:32:19] New best model saved.
+[2025-06-17 14:32:22] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:32:23] New best model saved.
+[2025-06-17 14:32:26] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:32:26] New best model saved.
+[2025-06-17 14:32:29] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:29] New best model saved.
+[2025-06-17 14:32:32] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:32] Patience Counter: 1/10
+[2025-06-17 14:32:35] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:35] New best model saved.
+[2025-06-17 14:32:38] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:38] New best model saved.
+[2025-06-17 14:32:41] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:41] Patience Counter: 1/10
+[2025-06-17 14:32:44] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:44] Patience Counter: 2/10
+[2025-06-17 14:32:47] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:47] Patience Counter: 3/10
+[2025-06-17 14:32:50] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:50] Patience Counter: 4/10
+[2025-06-17 14:32:53] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:32:53] Patience Counter: 5/10
+[2025-06-17 14:32:57] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:32:57] Patience Counter: 6/10
+[2025-06-17 14:33:00] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 14:33:00] Patience Counter: 7/10
+[2025-06-17 14:33:03] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 14:33:03] Patience Counter: 8/10
+[2025-06-17 14:33:06] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 14:33:06] Patience Counter: 9/10
+[2025-06-17 14:33:09] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 14:33:09] Patience Counter: 10/10
+[2025-06-17 14:33:09] Early stopping triggered.
+[2025-06-17 14:33:09] Training complete.
+[2025-06-17 14:33:09] Generating synthetic samples for visualization...
+[2025-06-17 14:33:09] Saving visual preview of synthetic samples...
+[2025-06-17 14:33:09] Generating 1000 synthetic samples per class...
+[2025-06-17 14:33:09] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 14:33:09] Running baseline: Real-only CNN classifier...
+[2025-06-17 14:33:10] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 14:33:10] Layer mismatch error detected. Rebuilding classifier...
+[2025-06-17 14:33:10] Training a real-only CNN classifier...
+[2025-06-17 14:33:58] Classifier trained and weights saved.
+[2025-06-17 14:33:58] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 14:33:58] Loading synthetic samples from disk...
+[2025-06-17 14:33:58] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 14:33:58] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 14:33:58] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 14:34:53] Classifier Test Accuracy: 0.1111
+[2025-06-17 14:34:53] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 14:34:59] FID Score: 0.0002
+[2025-06-17 14:34:59] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 15:01:21] Initializing Conditional CVAE...
+[2025-06-17 15:01:22] Starting CVAE training with early stopping...
+[2025-06-17 15:05:27] Initializing Conditional CVAE...
+[2025-06-17 15:05:27] Starting CVAE training with early stopping...
+[2025-06-17 15:13:23] Initializing Conditional CVAE...
+[2025-06-17 15:13:23] Starting CVAE training with early stopping...
+[2025-06-17 15:13:39] Epoch 1: Train Loss = nan, Recon = 0.0460, KL = nan, Val Loss = nan, β = 0.00
+[2025-06-17 15:13:39] Patience Counter: 1/10
+[2025-06-17 15:13:53] Epoch 2: Train Loss = nan, Recon = 0.0002, KL = nan, Val Loss = nan, β = 0.02
+[2025-06-17 15:13:53] Patience Counter: 2/10
+[2025-06-17 15:14:08] Epoch 3: Train Loss = nan, Recon = 0.0001, KL = nan, Val Loss = nan, β = 0.04
+[2025-06-17 15:14:08] Patience Counter: 3/10
+[2025-06-17 15:14:23] Epoch 4: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.06
+[2025-06-17 15:14:23] Patience Counter: 4/10
+[2025-06-17 15:14:38] Epoch 5: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.08
+[2025-06-17 15:14:38] Patience Counter: 5/10
+[2025-06-17 15:14:53] Epoch 6: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.10
+[2025-06-17 15:14:53] Patience Counter: 6/10
+[2025-06-17 15:15:08] Epoch 7: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.12
+[2025-06-17 15:15:08] Patience Counter: 7/10
+[2025-06-17 15:15:23] Epoch 8: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.14
+[2025-06-17 15:15:23] Patience Counter: 8/10
+[2025-06-17 15:15:38] Epoch 9: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.16
+[2025-06-17 15:15:38] Patience Counter: 9/10
+[2025-06-17 15:15:54] Epoch 10: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.18
+[2025-06-17 15:15:54] Patience Counter: 10/10
+[2025-06-17 15:15:54] Early stopping triggered.
+[2025-06-17 15:15:54] Training complete.
+[2025-06-17 15:15:54] Generating synthetic samples for visualization...
+[2025-06-17 15:15:54] Saving visual preview of synthetic samples...
+[2025-06-17 15:15:54] Generating 1000 synthetic samples per class...
+[2025-06-17 15:15:55] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 15:15:55] Running baseline: Real-only CNN classifier...
+[2025-06-17 15:15:55] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 15:15:56] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 15:15:56] Loading synthetic samples from disk...
+[2025-06-17 15:15:56] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 15:15:56] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 15:15:56] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 15:16:51] Classifier Test Accuracy: 0.1111
+[2025-06-17 15:16:51] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 15:16:57] FID Score: 0.0002
+[2025-06-17 15:16:58] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 15:21:44] Initializing Conditional CVAE...
+[2025-06-17 15:21:45] Starting CVAE training with early stopping...
+[2025-06-17 15:21:52] Epoch 1: Train Loss = nan, Recon = 0.0460, KL = nan, Val Loss = nan, β = 0.00
+[2025-06-17 15:21:52] Patience Counter: 1/10
+[2025-06-17 15:21:59] Epoch 2: Train Loss = nan, Recon = 0.0002, KL = nan, Val Loss = nan, β = 0.02
+[2025-06-17 15:21:59] Patience Counter: 2/10
+[2025-06-17 15:22:06] Epoch 3: Train Loss = nan, Recon = 0.0001, KL = nan, Val Loss = nan, β = 0.04
+[2025-06-17 15:22:06] Patience Counter: 3/10
+[2025-06-17 15:22:13] Epoch 4: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.06
+[2025-06-17 15:22:13] Patience Counter: 4/10
+[2025-06-17 15:35:32] Initializing Conditional CVAE...
+[2025-06-17 15:36:52] Initializing Conditional CVAE...
+[2025-06-17 15:36:53] Starting CVAE training with early stopping...
+[2025-06-17 15:39:29] Initializing Conditional CVAE...
+[2025-06-17 15:39:30] Starting CVAE training with early stopping...
+[2025-06-17 15:39:38] Epoch 1: Train Loss = nan, Recon = 0.0469, KL = nan, Val Loss = nan, β = 0.00
+[2025-06-17 15:39:38] Patience Counter: 1/10
+[2025-06-17 15:39:47] Epoch 2: Train Loss = nan, Recon = 0.0002, KL = nan, Val Loss = nan, β = 0.02
+[2025-06-17 15:39:47] Patience Counter: 2/10
+[2025-06-17 15:39:56] Epoch 3: Train Loss = nan, Recon = 0.0001, KL = nan, Val Loss = nan, β = 0.04
+[2025-06-17 15:39:56] Patience Counter: 3/10
+[2025-06-17 15:40:05] Epoch 4: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.06
+[2025-06-17 15:40:05] Patience Counter: 4/10
+[2025-06-17 15:40:15] Epoch 5: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.08
+[2025-06-17 15:40:15] Patience Counter: 5/10
+[2025-06-17 15:40:25] Epoch 6: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.10
+[2025-06-17 15:40:25] Patience Counter: 6/10
+[2025-06-17 15:40:36] Epoch 7: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.12
+[2025-06-17 15:40:36] Patience Counter: 7/10
+[2025-06-17 15:40:46] Epoch 8: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.14
+[2025-06-17 15:40:46] Patience Counter: 8/10
+[2025-06-17 15:40:57] Epoch 9: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.16
+[2025-06-17 15:40:57] Patience Counter: 9/10
+[2025-06-17 15:41:09] Epoch 10: Train Loss = nan, Recon = 0.0000, KL = nan, Val Loss = nan, β = 0.18
+[2025-06-17 15:41:09] Patience Counter: 10/10
+[2025-06-17 15:41:09] Early stopping triggered.
+[2025-06-17 15:41:09] Training complete.
+[2025-06-17 15:41:09] Generating synthetic samples for visualization...
+[2025-06-17 15:41:09] Saving visual preview of synthetic samples...
+[2025-06-17 15:41:09] Generating 1000 synthetic samples per class...
+[2025-06-17 15:41:09] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 15:41:09] Running baseline: Real-only CNN classifier...
+[2025-06-17 15:41:10] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 15:41:10] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 15:41:10] Loading synthetic samples from disk...
+[2025-06-17 15:41:10] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 15:41:11] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 15:41:11] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 15:42:07] Classifier Test Accuracy: 0.1111
+[2025-06-17 15:42:07] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 15:42:14] FID Score: 0.0002
+[2025-06-17 15:42:14] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 16:10:26] Initializing Conditional CVAE...
+[2025-06-17 16:10:26] Starting CVAE training with early stopping...
+[2025-06-17 16:10:35] Epoch 1: Train Loss = 0.0114, Recon = 0.0114, KL = 951211.0000, Val Loss = 0.0000, β = 0.00
+[2025-06-17 16:10:35] New best model saved.
+[2025-06-17 16:10:44] Epoch 2: Train Loss = 219.7504, Recon = 0.0008, KL = 10987.4814, Val Loss = 0.0000, β = 0.02
+[2025-06-17 16:10:44] Patience Counter: 1/10
+[2025-06-17 16:10:53] Epoch 3: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.04
+[2025-06-17 16:10:53] Patience Counter: 2/10
+[2025-06-17 16:11:02] Epoch 4: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.06
+[2025-06-17 16:11:02] Patience Counter: 3/10
+[2025-06-17 16:11:12] Epoch 5: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.08
+[2025-06-17 16:11:12] Patience Counter: 4/10
+[2025-06-17 16:11:22] Epoch 6: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.10
+[2025-06-17 16:11:22] Patience Counter: 5/10
+[2025-06-17 16:11:33] Epoch 7: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.12
+[2025-06-17 16:11:33] Patience Counter: 6/10
+[2025-06-17 16:11:44] Epoch 8: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.14
+[2025-06-17 16:11:44] New best model saved.
+[2025-06-17 16:11:55] Epoch 9: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.16
+[2025-06-17 16:11:55] New best model saved.
+[2025-06-17 16:12:07] Epoch 10: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.18
+[2025-06-17 16:12:07] Patience Counter: 1/10
+[2025-06-17 16:12:19] Epoch 11: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.20
+[2025-06-17 16:12:19] Patience Counter: 2/10
+[2025-06-17 16:12:32] Epoch 12: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.22
+[2025-06-17 16:12:32] Patience Counter: 3/10
+[2025-06-17 16:12:46] Epoch 13: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.24
+[2025-06-17 16:12:46] New best model saved.
+[2025-06-17 16:12:59] Epoch 14: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.26
+[2025-06-17 16:12:59] Patience Counter: 1/10
+[2025-06-17 16:13:13] Epoch 15: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.28
+[2025-06-17 16:13:13] New best model saved.
+[2025-06-17 16:13:27] Epoch 16: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.30
+[2025-06-17 16:13:27] Patience Counter: 1/10
+[2025-06-17 16:13:41] Epoch 17: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.32
+[2025-06-17 16:13:41] Patience Counter: 2/10
+[2025-06-17 16:13:56] Epoch 18: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.34
+[2025-06-17 16:13:56] Patience Counter: 3/10
+[2025-06-17 16:14:11] Epoch 19: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.36
+[2025-06-17 16:14:11] Patience Counter: 4/10
+[2025-06-17 16:14:27] Epoch 20: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.38
+[2025-06-17 16:14:27] Patience Counter: 5/10
+[2025-06-17 16:14:47] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.40
+[2025-06-17 16:14:47] New best model saved.
+[2025-06-17 16:15:07] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.42
+[2025-06-17 16:15:07] New best model saved.
+[2025-06-17 16:15:28] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.44
+[2025-06-17 16:15:28] Patience Counter: 1/10
+[2025-06-17 16:15:49] Epoch 24: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.46
+[2025-06-17 16:15:49] Patience Counter: 2/10
+[2025-06-17 16:16:10] Epoch 25: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.48
+[2025-06-17 16:16:10] Patience Counter: 3/10
+[2025-06-17 16:16:32] Epoch 26: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.50
+[2025-06-17 16:16:32] Patience Counter: 4/10
+[2025-06-17 16:16:55] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.52
+[2025-06-17 16:16:55] New best model saved.
+[2025-06-17 16:17:19] Epoch 28: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.54
+[2025-06-17 16:17:19] Patience Counter: 1/10
+[2025-06-17 16:17:42] Epoch 29: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.56
+[2025-06-17 16:17:42] Patience Counter: 2/10
+[2025-06-17 16:18:06] Epoch 30: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.58
+[2025-06-17 16:18:06] Patience Counter: 3/10
+[2025-06-17 16:18:31] Epoch 31: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.60
+[2025-06-17 16:18:31] Patience Counter: 4/10
+[2025-06-17 16:18:55] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.62
+[2025-06-17 16:18:55] Patience Counter: 5/10
+[2025-06-17 16:19:21] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.64
+[2025-06-17 16:19:21] Patience Counter: 6/10
+[2025-06-17 16:19:47] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.66
+[2025-06-17 16:19:47] Patience Counter: 7/10
+[2025-06-17 16:20:13] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.68
+[2025-06-17 16:20:13] Patience Counter: 8/10
+[2025-06-17 16:20:39] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.70
+[2025-06-17 16:20:39] Patience Counter: 9/10
+[2025-06-17 16:21:07] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.72
+[2025-06-17 16:21:07] Patience Counter: 10/10
+[2025-06-17 16:21:07] Early stopping triggered.
+[2025-06-17 16:21:07] Training complete.
+[2025-06-17 16:21:07] Generating synthetic samples for visualization...
+[2025-06-17 16:21:07] Saving visual preview of synthetic samples...
+[2025-06-17 16:21:07] Generating 1000 synthetic samples per class...
+[2025-06-17 16:21:08] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 16:21:08] Running baseline: Real-only CNN classifier...
+[2025-06-17 16:21:08] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 16:21:09] Real-Only Classifier Accuracy on Test Set: 0.1111
+[2025-06-17 16:21:09] Loading synthetic samples from disk...
+[2025-06-17 16:21:09] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 16:21:09] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 16:21:09] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 16:22:11] Classifier Test Accuracy: 0.1111
+[2025-06-17 16:22:11] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 16:22:21] FID Score: 0.0002
+[2025-06-17 16:22:22] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 20:51:54] Initializing Conditional CVAE...
+[2025-06-17 20:51:54] Starting CVAE training with early stopping...
+[2025-06-17 20:51:58] Epoch 1: Train Loss = 0.2430, Recon = 0.1002, KL = 0.1428, Val Loss = 0.8405
+[2025-06-17 20:51:58] New best model saved.
+[2025-06-17 20:52:01] Epoch 2: Train Loss = 0.0323, Recon = 0.0003, KL = 0.0320, Val Loss = 1.7411
+[2025-06-17 20:52:01] Patience Counter: 1/10
+[2025-06-17 20:52:04] Epoch 3: Train Loss = 0.0067, Recon = 0.0001, KL = 0.0066, Val Loss = 1.2640
+[2025-06-17 20:52:04] Patience Counter: 2/10
+[2025-06-17 20:52:08] Epoch 4: Train Loss = 0.0020, Recon = 0.0000, KL = 0.0020, Val Loss = 1.0852
+[2025-06-17 20:52:08] Patience Counter: 3/10
+[2025-06-17 20:52:11] Epoch 5: Train Loss = 0.0026, Recon = 0.0000, KL = 0.0026, Val Loss = 0.9380
+[2025-06-17 20:52:11] Patience Counter: 4/10
+[2025-06-17 20:52:14] Epoch 6: Train Loss = 0.0007, Recon = 0.0000, KL = 0.0007, Val Loss = 0.7507
+[2025-06-17 20:52:14] New best model saved.
+[2025-06-17 20:52:17] Epoch 7: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.6899
+[2025-06-17 20:52:17] New best model saved.
+[2025-06-17 20:52:20] Epoch 8: Train Loss = 0.0004, Recon = 0.0000, KL = 0.0004, Val Loss = 0.5748
+[2025-06-17 20:52:20] New best model saved.
+[2025-06-17 20:52:23] Epoch 9: Train Loss = 0.0086, Recon = 0.0000, KL = 0.0085, Val Loss = 0.5183
+[2025-06-17 20:52:23] New best model saved.
+[2025-06-17 20:52:26] Epoch 10: Train Loss = 0.0014, Recon = 0.0000, KL = 0.0014, Val Loss = 0.4522
+[2025-06-17 20:52:26] New best model saved.
+[2025-06-17 20:52:29] Epoch 11: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.4592
+[2025-06-17 20:52:29] Patience Counter: 1/10
+[2025-06-17 20:52:32] Epoch 12: Train Loss = 0.0008, Recon = 0.0000, KL = 0.0008, Val Loss = 0.3184
+[2025-06-17 20:52:32] New best model saved.
+[2025-06-17 20:52:35] Epoch 13: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.3148
+[2025-06-17 20:52:35] New best model saved.
+[2025-06-17 20:52:38] Epoch 14: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.3108
+[2025-06-17 20:52:38] New best model saved.
+[2025-06-17 20:52:41] Epoch 15: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2860
+[2025-06-17 20:52:41] New best model saved.
+[2025-06-17 20:52:44] Epoch 16: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.2213
+[2025-06-17 20:52:44] New best model saved.
+[2025-06-17 20:52:47] Epoch 17: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.2090
+[2025-06-17 20:52:47] New best model saved.
+[2025-06-17 20:52:50] Epoch 18: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1756
+[2025-06-17 20:52:50] New best model saved.
+[2025-06-17 20:52:53] Epoch 19: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.1494
+[2025-06-17 20:52:53] New best model saved.
+[2025-06-17 20:52:57] Epoch 20: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.1259
+[2025-06-17 20:52:57] New best model saved.
+[2025-06-17 20:53:00] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.1100
+[2025-06-17 20:53:00] New best model saved.
+[2025-06-17 20:53:03] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0985
+[2025-06-17 20:53:03] New best model saved.
+[2025-06-17 20:53:06] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0811
+[2025-06-17 20:53:06] New best model saved.
+[2025-06-17 20:53:09] Epoch 24: Train Loss = 0.0003, Recon = 0.0000, KL = 0.0003, Val Loss = 0.0472
+[2025-06-17 20:53:09] New best model saved.
+[2025-06-17 20:53:12] Epoch 25: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0465
+[2025-06-17 20:53:12] New best model saved.
+[2025-06-17 20:53:15] Epoch 26: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0433
+[2025-06-17 20:53:15] New best model saved.
+[2025-06-17 20:53:18] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0418
+[2025-06-17 20:53:18] New best model saved.
+[2025-06-17 20:53:21] Epoch 28: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0327
+[2025-06-17 20:53:21] New best model saved.
+[2025-06-17 20:53:25] Epoch 29: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0144
+[2025-06-17 20:53:25] New best model saved.
+[2025-06-17 20:53:28] Epoch 30: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0141
+[2025-06-17 20:53:28] New best model saved.
+[2025-06-17 20:53:31] Epoch 31: Train Loss = 0.0001, Recon = 0.0000, KL = 0.0001, Val Loss = 0.0155
+[2025-06-17 20:53:31] Patience Counter: 1/10
+[2025-06-17 20:53:34] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0138
+[2025-06-17 20:53:34] New best model saved.
+[2025-06-17 20:53:37] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0142
+[2025-06-17 20:53:37] Patience Counter: 1/10
+[2025-06-17 20:53:40] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 20:53:40] New best model saved.
+[2025-06-17 20:53:43] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0097
+[2025-06-17 20:53:43] New best model saved.
+[2025-06-17 20:53:46] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0098
+[2025-06-17 20:53:46] Patience Counter: 1/10
+[2025-06-17 20:53:49] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0080
+[2025-06-17 20:53:49] New best model saved.
+[2025-06-17 20:53:52] Epoch 38: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0055
+[2025-06-17 20:53:52] New best model saved.
+[2025-06-17 20:53:55] Epoch 39: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0051
+[2025-06-17 20:53:55] New best model saved.
+[2025-06-17 20:53:58] Epoch 40: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0040
+[2025-06-17 20:53:58] New best model saved.
+[2025-06-17 20:54:01] Epoch 41: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0071
+[2025-06-17 20:54:01] Patience Counter: 1/10
+[2025-06-17 20:54:04] Epoch 42: Train Loss = 0.0002, Recon = 0.0000, KL = 0.0002, Val Loss = 0.0031
+[2025-06-17 20:54:04] New best model saved.
+[2025-06-17 20:54:08] Epoch 43: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0032
+[2025-06-17 20:54:08] Patience Counter: 1/10
+[2025-06-17 20:54:11] Epoch 44: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 20:54:11] Patience Counter: 2/10
+[2025-06-17 20:54:14] Epoch 45: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 20:54:14] New best model saved.
+[2025-06-17 20:54:17] Epoch 46: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0031
+[2025-06-17 20:54:17] New best model saved.
+[2025-06-17 20:54:20] Epoch 47: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 20:54:20] New best model saved.
+[2025-06-17 20:54:23] Epoch 48: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 20:54:23] New best model saved.
+[2025-06-17 20:54:26] Epoch 49: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 20:54:26] New best model saved.
+[2025-06-17 20:54:29] Epoch 50: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:29] New best model saved.
+[2025-06-17 20:54:32] Epoch 51: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:32] Patience Counter: 1/10
+[2025-06-17 20:54:35] Epoch 52: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:35] New best model saved.
+[2025-06-17 20:54:38] Epoch 53: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:38] New best model saved.
+[2025-06-17 20:54:41] Epoch 54: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:41] Patience Counter: 1/10
+[2025-06-17 20:54:44] Epoch 55: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:44] Patience Counter: 2/10
+[2025-06-17 20:54:47] Epoch 56: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:47] Patience Counter: 3/10
+[2025-06-17 20:54:50] Epoch 57: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:50] Patience Counter: 4/10
+[2025-06-17 20:54:54] Epoch 58: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:54:54] Patience Counter: 5/10
+[2025-06-17 20:54:57] Epoch 59: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 20:54:57] Patience Counter: 6/10
+[2025-06-17 20:55:00] Epoch 60: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 20:55:00] Patience Counter: 7/10
+[2025-06-17 20:55:03] Epoch 61: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0029
+[2025-06-17 20:55:03] Patience Counter: 8/10
+[2025-06-17 20:55:06] Epoch 62: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0030
+[2025-06-17 20:55:06] Patience Counter: 9/10
+[2025-06-17 20:55:09] Epoch 63: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0030
+[2025-06-17 20:55:09] Patience Counter: 10/10
+[2025-06-17 20:55:09] Early stopping triggered.
+[2025-06-17 20:55:09] Training complete.
+[2025-06-17 20:55:09] Generating synthetic samples for visualization...
+[2025-06-17 20:55:09] Saving visual preview of synthetic samples...
+[2025-06-17 20:55:09] Generating 1000 synthetic samples per class...
+[2025-06-17 20:55:09] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 20:55:09] Running baseline: Real-only CNN classifier...
+[2025-06-17 20:55:10] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 20:55:10] Layer mismatch error detected. Rebuilding classifier...
+[2025-06-17 20:55:10] Training a real-only CNN classifier...
+[2025-06-17 20:56:15] Classifier trained and weights saved.
+[2025-06-17 20:56:16] Real-Only Classifier Accuracy on Test Set: 0.1208
+[2025-06-17 20:56:16] Loading synthetic samples from disk...
+[2025-06-17 20:56:16] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 20:56:16] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 20:56:16] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 20:57:36] Classifier Test Accuracy: 0.1111
+[2025-06-17 20:57:36] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 20:57:42] FID Score: 0.0002
+[2025-06-17 20:57:43] Saved interpolation to interpolations/interp_0_to_8.png
+[2025-06-17 21:16:28] Initializing Conditional CVAE...
+[2025-06-17 21:16:29] Starting CVAE training with early stopping...
+[2025-06-17 21:16:38] Epoch 1: Train Loss = 0.0114, Recon = 0.0114, KL = 951211.0000, Val Loss = 0.0000, β = 0.00
+[2025-06-17 21:16:38] New best model saved.
+[2025-06-17 21:16:46] Epoch 2: Train Loss = 219.7504, Recon = 0.0008, KL = 10987.4814, Val Loss = 0.0000, β = 0.02
+[2025-06-17 21:16:46] Patience Counter: 1/10
+[2025-06-17 21:16:55] Epoch 3: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.04
+[2025-06-17 21:16:55] Patience Counter: 2/10
+[2025-06-17 21:17:04] Epoch 4: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.06
+[2025-06-17 21:17:04] Patience Counter: 3/10
+[2025-06-17 21:17:14] Epoch 5: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.08
+[2025-06-17 21:17:14] Patience Counter: 4/10
+[2025-06-17 21:17:24] Epoch 6: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.10
+[2025-06-17 21:17:24] Patience Counter: 5/10
+[2025-06-17 21:17:34] Epoch 7: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.12
+[2025-06-17 21:17:34] Patience Counter: 6/10
+[2025-06-17 21:17:45] Epoch 8: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.14
+[2025-06-17 21:17:45] New best model saved.
+[2025-06-17 21:17:56] Epoch 9: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.16
+[2025-06-17 21:17:56] New best model saved.
+[2025-06-17 21:18:08] Epoch 10: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.18
+[2025-06-17 21:18:08] Patience Counter: 1/10
+[2025-06-17 21:18:21] Epoch 11: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.20
+[2025-06-17 21:18:21] Patience Counter: 2/10
+[2025-06-17 21:18:34] Epoch 12: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.22
+[2025-06-17 21:18:34] Patience Counter: 3/10
+[2025-06-17 21:18:48] Epoch 13: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.24
+[2025-06-17 21:18:48] New best model saved.
+[2025-06-17 21:19:02] Epoch 14: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.26
+[2025-06-17 21:19:02] Patience Counter: 1/10
+[2025-06-17 21:19:16] Epoch 15: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.28
+[2025-06-17 21:19:16] New best model saved.
+[2025-06-17 21:19:30] Epoch 16: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.30
+[2025-06-17 21:19:30] Patience Counter: 1/10
+[2025-06-17 21:19:44] Epoch 17: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.32
+[2025-06-17 21:19:44] Patience Counter: 2/10
+[2025-06-17 21:19:59] Epoch 18: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.34
+[2025-06-17 21:19:59] Patience Counter: 3/10
+[2025-06-17 21:20:14] Epoch 19: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.36
+[2025-06-17 21:20:14] Patience Counter: 4/10
+[2025-06-17 21:20:31] Epoch 20: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.38
+[2025-06-17 21:20:31] Patience Counter: 5/10
+[2025-06-17 21:20:51] Epoch 21: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.40
+[2025-06-17 21:20:51] New best model saved.
+[2025-06-17 21:21:11] Epoch 22: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.42
+[2025-06-17 21:21:11] New best model saved.
+[2025-06-17 21:21:32] Epoch 23: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.44
+[2025-06-17 21:21:32] Patience Counter: 1/10
+[2025-06-17 21:21:53] Epoch 24: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.46
+[2025-06-17 21:21:53] Patience Counter: 2/10
+[2025-06-17 21:22:14] Epoch 25: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.48
+[2025-06-17 21:22:14] Patience Counter: 3/10
+[2025-06-17 21:22:36] Epoch 26: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.50
+[2025-06-17 21:22:36] Patience Counter: 4/10
+[2025-06-17 21:22:57] Epoch 27: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.52
+[2025-06-17 21:22:57] New best model saved.
+[2025-06-17 21:23:19] Epoch 28: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.54
+[2025-06-17 21:23:19] Patience Counter: 1/10
+[2025-06-17 21:23:42] Epoch 29: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.56
+[2025-06-17 21:23:42] Patience Counter: 2/10
+[2025-06-17 21:24:05] Epoch 30: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.58
+[2025-06-17 21:24:05] Patience Counter: 3/10
+[2025-06-17 21:24:28] Epoch 31: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.60
+[2025-06-17 21:24:28] Patience Counter: 4/10
+[2025-06-17 21:24:52] Epoch 32: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.62
+[2025-06-17 21:24:52] Patience Counter: 5/10
+[2025-06-17 21:25:16] Epoch 33: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.64
+[2025-06-17 21:25:16] Patience Counter: 6/10
+[2025-06-17 21:25:41] Epoch 34: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.66
+[2025-06-17 21:25:41] Patience Counter: 7/10
+[2025-06-17 21:26:06] Epoch 35: Train Loss = 0.0000, Recon = 0.0000, KL = -0.0000, Val Loss = 0.0000, β = 0.68
+[2025-06-17 21:26:06] Patience Counter: 8/10
+[2025-06-17 21:26:32] Epoch 36: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.70
+[2025-06-17 21:26:32] Patience Counter: 9/10
+[2025-06-17 21:26:58] Epoch 37: Train Loss = 0.0000, Recon = 0.0000, KL = 0.0000, Val Loss = 0.0000, β = 0.72
+[2025-06-17 21:26:58] Patience Counter: 10/10
+[2025-06-17 21:26:58] Early stopping triggered.
+[2025-06-17 21:26:58] Training complete.
+[2025-06-17 21:26:59] Generating synthetic samples for visualization...
+[2025-06-17 21:26:59] Saving visual preview of synthetic samples...
+[2025-06-17 21:26:59] Generating 1000 synthetic samples per class...
+[2025-06-17 21:26:59] Saved class-balanced synthetic dataset: (9000, 40, 40, 1)
+[2025-06-17 21:26:59] Running baseline: Real-only CNN classifier...
+[2025-06-17 21:27:00] Loading pre-trained classifier from classifier_model.h5
+[2025-06-17 21:27:01] Real-Only Classifier Accuracy on Test Set: 0.1208
+[2025-06-17 21:27:01] Loading synthetic samples from disk...
+[2025-06-17 21:27:01] Loaded synthetic dataset: 9000 samples.
+[2025-06-17 21:27:01] Evaluating classifier on real vs real+synthetic training data...
+[2025-06-17 21:27:01] Using combined training data: real (81000) + synthetic (9000)
+[2025-06-17 21:28:24] Classifier Test Accuracy: 0.1936
+[2025-06-17 21:28:24] Saved classifier model to classifier_real_plus_synthetic.h5
+[2025-06-17 21:28:34] FID Score: 0.0002
+[2025-06-17 21:28:34] Saved interpolation to interpolations/interp_0_to_8.png

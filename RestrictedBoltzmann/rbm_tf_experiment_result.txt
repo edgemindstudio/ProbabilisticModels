@@ -1,0 +1,129 @@
+[2025-06-26 19:48:47] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 19:48:48] No pretrained RBM found. Train the model first.
+[2025-06-26 19:51:30] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 19:51:31] No pretrained RBM found. Train the model first.
+[2025-06-26 19:53:33] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 19:53:33] No pretrained RBM found. Train the model first.
+[2025-06-26 19:53:38] Evaluating RBM synthetic sample quality...
+[2025-06-26 19:53:44] FID Score (RBM): 21.9923
+[2025-06-26 19:53:44] JS Divergence: 0.216546, KL Divergence: 0.696007
+[2025-06-26 19:53:44] Diversity Score: 0.249294
+[2025-06-26 19:53:44] [Evaluation] {'FID': 21.992263386056393, 'JS': 0.21654647588729858, 'KL': 0.6960067472780864, 'Diversity': 0.24929371}
+[2025-06-26 19:53:44] Training classifier on real-only data...
+[2025-06-26 19:54:21] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 19:54:21] Classifier Metrics (Real Only): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-26 19:54:21] Training classifier on real + synthetic data...
+[2025-06-26 20:03:06] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 20:03:07] No pretrained RBM found. Train the model first.
+[2025-06-26 20:03:10] Evaluating RBM synthetic sample quality...
+[2025-06-26 20:03:16] FID Score (RBM): 21.9923
+[2025-06-26 20:03:16] JS Divergence: 0.216546, KL Divergence: 0.696007
+[2025-06-26 20:03:16] Diversity Score: 0.249294
+[2025-06-26 20:03:16] [Evaluation] {'FID': 21.992263386056393, 'JS': 0.21654647588729858, 'KL': 0.6960067472780864, 'Diversity': 0.24929371}
+[2025-06-26 20:03:16] Training classifier on real-only data...
+[2025-06-26 20:03:53] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 20:03:53] Classifier Metrics (Real Only): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-26 20:03:53] Training classifier on real + synthetic data...
+[2025-06-26 20:06:08] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 20:06:09] No pretrained RBM found. Train the model first.
+[2025-06-26 20:06:15] Evaluating RBM synthetic sample quality...
+[2025-06-26 20:06:20] FID Score (RBM): 21.9923
+[2025-06-26 20:06:20] JS Divergence: 0.216546, KL Divergence: 0.696007
+[2025-06-26 20:06:20] Diversity Score: 0.249294
+[2025-06-26 20:06:20] [Evaluation] {'FID': 21.992263386056393, 'JS': 0.21654647588729858, 'KL': 0.6960067472780864, 'Diversity': 0.24929371}
+[2025-06-26 20:06:20] Training classifier on real-only data...
+[2025-06-26 20:06:58] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 20:06:58] Classifier Metrics (Real Only): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-26 20:06:58] Training classifier on real + synthetic data...
+[2025-06-26 20:07:20] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 20:07:20] Classifier Metrics (Real + Synthetic): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-26 20:09:27] Starting RBM Experiment (TensorFlow Version)
+[2025-06-26 20:09:28] No pretrained RBM found. Train the model first.
+[2025-06-26 20:09:31] Evaluating RBM synthetic sample quality...
+[2025-06-26 20:09:37] FID Score (RBM): 21.9923
+[2025-06-26 20:09:37] JS Divergence: 0.216546, KL Divergence: 0.696007
+[2025-06-26 20:09:37] Diversity Score: 0.249294
+[2025-06-26 20:09:37] [Evaluation] {'FID': 21.992263386056393, 'JS': 0.21654647588729858, 'KL': 0.6960067472780864, 'Diversity': 0.24929371}
+[2025-06-26 20:09:37] Training classifier on real-only data...
+[2025-06-26 20:10:14] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 20:10:14] Classifier Metrics (Real Only): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-26 20:10:14] Training classifier on real + synthetic data...
+[2025-06-26 20:10:36] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-26 20:10:36] Classifier Metrics (Real + Synthetic): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-30 09:48:38] Starting RBM Experiment (TensorFlow Version)
+[2025-06-30 09:48:39] No pretrained RBM found. Train the model first.
+[2025-06-30 09:48:42] Evaluating RBM synthetic sample quality...
+[2025-06-30 09:48:48] FID Score (RBM): 21.9923
+[2025-06-30 09:48:48] JS Divergence: 0.216546, KL Divergence: 0.696007
+[2025-06-30 09:48:48] Diversity Score: 0.249294
+[2025-06-30 09:48:48] [Evaluation] {'FID': 21.992263386056393, 'JS': 0.21654647588729858, 'KL': 0.6960067472780864, 'Diversity': 0.24929371}
+[2025-06-30 09:48:48] Training classifier on real-only data...
+[2025-06-30 09:49:25] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-30 09:49:25] Classifier Metrics (Real Only): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}
+[2025-06-30 09:49:25] Training classifier on real + synthetic data...
+[2025-06-30 09:49:47] [Classifier] Accuracy: 0.1049, F1: 0.0211
+[2025-06-30 09:49:47] Classifier Metrics (Real + Synthetic): {'accuracy': 0.10488888888888889, 'precision': 0.011654320987654322, 'recall': 0.1111111111111111, 'f1_score': 0.021095914901224633, 'confusion_matrix': array([[  0,   0, 514,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 496,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 472,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 507,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 503,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 485,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 510,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 512,   0,   0,   0,   0,   0,   0],
+       [  0,   0, 501,   0,   0,   0,   0,   0,   0]])}

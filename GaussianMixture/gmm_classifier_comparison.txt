@@ -1,0 +1,2 @@
+real_only: 0.6551111111111111
+real_plus_synthetic: 0.6971111111111111

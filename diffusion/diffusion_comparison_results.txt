@@ -1,0 +1,7 @@
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325
+FID Score (Diffusion): 0.4325

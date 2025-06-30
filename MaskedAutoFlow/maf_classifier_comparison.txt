@@ -1,0 +1,2 @@
+accuracy_real_only: 0.6455555555555555
+accuracy_real_plus_synthetic: 0.5524444444444444
